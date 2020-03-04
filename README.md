@@ -1,2 +1,2 @@
-# gettingstarted
-Start coding with a little structured text sample 
+# Getting started
+Start coding with a little structured text sample.
